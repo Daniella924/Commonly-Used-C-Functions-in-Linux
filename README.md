@@ -1,2 +1,2 @@
-# Commonly-Used-C-Functions-in-Linux-Linux-C-
+# Commonly-Used-C-Functions-in-Linux
 Linux常用C函数
